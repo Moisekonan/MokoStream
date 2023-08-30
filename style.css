@@ -176,6 +176,7 @@ nav .droite p {
 .films-et-series .section video {
     margin: 10px;
     height: 180px;
+    text-decoration: none;
 }
 
 /* Fin des films et séries */
